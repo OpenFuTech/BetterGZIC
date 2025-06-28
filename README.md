@@ -30,13 +30,15 @@
 7. **[更好的课表](https://www.wakeup.fun/)**  
    *推荐理由*：WakeUp是一款小巧美观的课程表App，支持多主题设计、课程导入导出以及提醒功能。
 
+8. **[学校通知RSS订阅](https://docs.rsshub.app/routes/university#%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6)
+   *推荐理由*：通过RSS订阅学校通知，集中管理相关通知，不用每天去各个网站或者盯着微信群。包含GZIC事务通知、教务处动态、海外学习等板块。
 ---
 
 ### 娱乐和效率工具
-8. **[综测查看卷王](https://github.com/1067088037/SCUTFindOverachievers)**  
+9. **[综测查看卷王](https://github.com/1067088037/SCUTFindOverachievers)**  
    *推荐理由*：一款基于Python的综测系统数据爬虫工具，可以查询“卷王”的数据，仅供娱乐使用。类似[项目](https://github.com/kellehod/GradeCrawler).
 
-9. **[宽泛的相关学校相关指引]()**:  
+10. **[宽泛的相关学校相关指引]()**:  
    - [华南理工生存手册](https://github.com/Kozmosa/survive-in-scut)  
    - [华工手册](https://www.gzic.online/)  
 
