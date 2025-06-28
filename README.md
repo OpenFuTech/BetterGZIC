@@ -35,10 +35,13 @@
 ---
 
 ### 娱乐和效率工具
-9. **[综测查看卷王](https://github.com/1067088037/SCUTFindOverachievers)**  
+9. **[沉浸式翻译](https://github.com/fishjar/kiss-translator)**
+   *推荐理由*：一款简单免费的沉浸式翻译插件，支持edge、chrome等浏览器。
+
+10. **[综测查看卷王](https://github.com/1067088037/SCUTFindOverachievers)**  
    *推荐理由*：一款基于Python的综测系统数据爬虫工具，可以查询“卷王”的数据，仅供娱乐使用。类似[项目](https://github.com/kellehod/GradeCrawler).
 
-10. **[宽泛的相关学校相关指引]()**:  
+11. **[宽泛的相关学校相关指引]()**:  
    - [华南理工生存手册](https://github.com/Kozmosa/survive-in-scut)  
    - [华工手册](https://www.gzic.online/)  
 
