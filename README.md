@@ -27,7 +27,7 @@
 ---
 
 ### 生活便利工具
-5. **[宿舍水电空调余额报警提醒](https://github.com/frinkleko/elec_room_info)**  
+5. **[宿舍水电空调余额报警提醒](https://github.com/sxdl/elec_room_info)**  
 
    *推荐理由*：实时预警宿舍水电空调余额，避免半夜突然断电或空调无法使用时还无法充值，提升生活体验
 
